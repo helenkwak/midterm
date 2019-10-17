@@ -1,0 +1,136 @@
+html{
+	text-align: left;
+	font-family: 'Arial';
+	font-size: 13px;
+}
+
+
+
+h1{
+	font-family: 'Times New Roman';
+	font-size: 40px;
+}
+
+
+
+h4{
+	font-family: 'Arial';
+	font-size: 17px;
+	position: relative;
+	top:-25px;
+}
+
+
+
+p{
+	position:relative;
+	top:-20px;
+	line-height: 20px;
+}
+
+
+
+li{
+	text-align: left;
+	position: relative;
+    left: -20px;
+}
+
+
+
+hr{
+	position:relative;
+	top: -25px;
+}
+
+
+
+.fromwiki{
+	font-size: 10px;
+}
+
+
+/*link stylings*/
+a:link {
+  text-decoration: none;
+  color: blue;
+}
+
+a:visited {
+  text-decoration: none;
+  color: purple;
+}
+
+a:hover {
+  text-decoration: none;
+  
+}
+
+a:active {
+  text-decoration: none;
+}
+
+
+.contents_div {
+  background-color: #DCDCDC;
+  width: 150px;
+  border: 1px solid black;
+  padding: 7px;
+  margin: 0px;
+}
+
+.contents_text{
+	font-family: Times New Roman;
+	font-weight: bold;
+	font-size: 25px;
+	position: relative;
+}
+
+#contents_title{
+	text-align: center;
+	position: relative;
+	top: 2px;
+}
+
+
+
+img{
+	position: relative;
+	top: -20px;
+	padding: 7px;
+	border: 1px solid black;
+
+
+}
+
+#captiontext1{
+	width: 200px;
+	line-height: 12px;
+	padding: 10px;
+	font-size: 10px;
+}
+
+.paragraph_text_up{
+	position: relative;
+	top: -50px;
+}
+
+
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+ol{
+	position: relative;
+	top:-15px;
+}
